@@ -10,7 +10,7 @@ Welcome to my Github Page!
 ### Carreer 🔭
 - 2020-2023: Vocational Traning Student @Leonhard Weiss with a focus on Web and App Development
 - since 2023: Fulstack Software Engineer @Leonhard Weiss focusing on Angular and C#
-- since 2024: Focusing on Ki integration @Leonhard Weiss
+- since 2024: Focusing on AI integration @Leonhard Weiss
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent401&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
