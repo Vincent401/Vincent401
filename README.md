@@ -23,13 +23,23 @@ German software engineer passionate about **building scalable applications** and
 ## 🛠 Tech Stack
 
 **Languages**
-[![Languages](https://skillicons.dev/icons?i=ts,python,js,java)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,java)](https://skillicons.dev)
 
 **Frontend & Frameworks**
-[![Frontend](https://skillicons.dev/icons?i=angular,react,html,css,scss,nodejs)](https://skillicons.dev)
 
-**Backend & Databases**
-[![Backend](https://skillicons.dev/icons?i=dotnet,postgres,mongodb,docker,azure)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,react)](https://skillicons.dev)
+
+**Infrastructure**
+
+[![Backend](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,terraform,azure&perline=7)](https://skillicons.dev)
+
+[![Qdrant](https://img.shields.io/badge/Qdrant-000000?logo=qdrant&logoColor=white)](https://qdrant.tech)
 
 **AI & ML**
+
 [![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)](https://langchain.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)](https://langchain.com)
+[![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?logo=langchain&logoColor=white)](https://langsmith.com)
