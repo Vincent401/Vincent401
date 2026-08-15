@@ -6,7 +6,7 @@
 
 ## 💡 About Me
 
-German software engineer passionate about **building scalable applications** and **AI integration**. I combine full-stack development expertise (Angular, C#) with a strong interest in modern AI technologies. Always curious, constantly learning, and excited about solving real-world problems through code.
+German software engineer passionate about **building scalable applications** and **AI integration**. I combine full-stack development expertise (Angular, Python) with a strong interest in modern AI technologies. Always curious, constantly learning, and excited about solving real-world problems through code.
 
 ---
 
